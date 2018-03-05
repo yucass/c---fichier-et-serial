@@ -1,0 +1,4 @@
+﻿  main.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+d:\users\jung_\source\repos\consoleapplication5\consoleapplication5\main.cpp(116): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  ConsoleApplication5.vcxproj -> D:\Users\jung_\source\repos\ConsoleApplication5\x64\Debug\cpp fichiers.exe
